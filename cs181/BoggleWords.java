@@ -3,7 +3,7 @@
  * I pledge my honor that I have abided by the Stevens Honor System
  * Christopher Rudel
  */
-package Lab9;
+//package Lab9;
 
 import java.io.*;
 import java.util.ArrayList;
@@ -79,7 +79,7 @@ public class BoggleWords
 	public static ArrayList<String> getBoggleWords()
 	{return boggleWords;}
 
-	/*		MAIN METHOD
+	//		MAIN METHOD
 	public static void main(String[] args)
 	{
 		
@@ -92,7 +92,7 @@ public class BoggleWords
 	
 	}
 	
-	*/
+	
 	
 	
 }
